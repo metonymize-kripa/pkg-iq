@@ -1,3 +1,3 @@
-# Example 1: Listening to voice of sustainability
+# Example 1: Sustainability via Voice of Customer analytics
 
 ![](/sustainability.png)

@@ -1,4 +1,4 @@
-# Example 3: Mapping products to shopper preference and placement
+# Example 3: Mapping shopper preference and trends
 
 <Bleed full>
 <iframe src="https://datastudio.google.com/embed/reporting/485b2fe1-38bf-4268-a8f7-6f326c8ab22d/page/9SymB"
