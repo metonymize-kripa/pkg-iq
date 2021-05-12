@@ -1,11 +1,11 @@
 export default {
-  repository: 'https://github.com/metonymize-kripa/innovation-analytics-docs',
-  titleSuffix: ' – InnovationAnalytics',
+  repository: 'https://github.com/metonymize-kripa/pkg-iq',
+  titleSuffix: ' – PackagingIQ',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Innovation Analytics</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Packaging IQ</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        At scale using Web, eCommerce, Patents, etc.
+        At scale using Packaging, eCommerce, Semiotics, etc.
       </span>
     </>
   ),
