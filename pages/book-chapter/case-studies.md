@@ -1,7 +1,7 @@
-# Case Studies: From top of funnel to consumer engagement
+# Case Studies: From Sustainability to Semiotics
 
-- Patent mining
+- Sustainability
 - Trend mining
-- Competitive needs analysis
-- Shopper needs analysis
-- Voice of Customer engagement
+- Images and sales
+- Colors & Minimalism
+- Semiotics
