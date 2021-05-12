@@ -1,3 +1,3 @@
-# Example 1: Listening and processing the voice of customer at scale
+# Example 1: Listening to voice of sustainability
 
-![](/voc.png)
+![](/sustainability.png)
