@@ -5,7 +5,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Packaging IQ</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        At scale using eCommerce, Semiotics, and more
+        At scale using Big Data from eCom and Packaging Semiotics
       </span>
     </>
   ),
@@ -37,5 +37,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: false,
-  footerText: <>{new Date().getFullYear()}</>
+  footerText: <> SGS & Co {new Date().getFullYear()}</>
 }
