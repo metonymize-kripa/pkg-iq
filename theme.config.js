@@ -5,7 +5,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Packaging IQ</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        At scale using Packaging, eCommerce, Semiotics, etc.
+        At scale using eCommerce, Semiotics, and more
       </span>
     </>
   ),
@@ -36,6 +36,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>
+  footerEditOnGitHubLink: false,
+  footerText: <>{new Date().getFullYear()}</>
 }
