@@ -1,3 +1,3 @@
-# Example 4: Trend spotting and detecting changes in preference
+# Example 2: Trend spotting and detecting changes in preference
 
 ![](/trends.png)

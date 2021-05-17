@@ -1,10 +1,10 @@
-# Example 3: Mapping shopper preference and trends
+# Example 3: Mapping image trends and impact
 
 <Bleed full>
-<iframe src="https://datastudio.google.com/embed/reporting/485b2fe1-38bf-4268-a8f7-6f326c8ab22d/page/9SymB"
+<iframe src="https://datastudio.google.com/embed/reporting/f839d963-ed4b-4594-9fed-6f29d8d47fcc/page/bRFFC"
      width="700"
      height="550"
-     title="Sample dashboard"
+     title="Image use trends"
    ></iframe>
 </Bleed>
 
